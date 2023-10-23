@@ -20,6 +20,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wreckage0907&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="wreckage0907" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wreckage0907&theme=dark&hide_border=false" alt="wreckage0907" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wreckage0907&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="wreckage0907" /></p>
+<p>< src="https://github-readme-stats.vercel.app/api?username=wreckage0907&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="wreckage0907" /></p>
+<p>&nbsp;<src="https://github-readme-streak-stats.herokuapp.com/?user=wreckage0907&theme=dark&hide_border=false" alt="wreckage0907" /></p>
+<p><src="https://github-readme-stats.vercel.app/api/top-langs?username=wreckage0907&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="wreckage0907" /></p>
