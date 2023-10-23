@@ -1,4 +1,4 @@
-#Hi, I'm Girish Raghav
+# Hi, I'm Girish Raghav
 
 ## 💫 About Me:
 👋 Greetings! I'm Girish Raghav, a fervent explorer in the realms of robotics and machine learning. My technological journey has been a thrilling adventure, driven by profound curiosity and a vision to craft intelligent systems capable of reshaping our world. 🤖💡 I firmly believe in the potential of merging robotics and machine learning to tackle intricate challenges, and I'm constantly embarking on new projects and brainstorming innovative ideas in these domains. My GitHub showcases my evolution and the projects I'm actively involved in.
