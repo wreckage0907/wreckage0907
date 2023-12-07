@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Girish</h1>
 <h3 align="center">Machine learning enthusiast interested in robotics</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wreckage0907 &theme=onedark" alt="wreckage0907" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wreckage0907&theme=onedark" alt="wreckage0907" /></a> </p>
 
 - 🌱 I’m currently learning **Robot Operating System(ROS) and ML**
 
