@@ -1,4 +1,4 @@
-<h1 align="center">HELLO I AM GIRSH</h1>
+<h1 align="center">Hello I Am Girish </h1>
 <h3 align="center">AIML Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wreckage0907" alt="wreckage0907" /></a> </p>
