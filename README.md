@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Pytorch and ROS(Robot Operating System)<br><br>📫 How to reach me girish.raghav2004@gmail.com<br><br>⚡ Fun fact I Watch Anime and read a lot of mangas
+🌱 I’m currently learning about AI Agents and MCP<br><br>📫 How to reach me girish.raghav2004@gmail.com<br><br>⚡ Fun fact I Watch Anime and read a lot of mangas
 
 
 ## 🌐 Socials:
